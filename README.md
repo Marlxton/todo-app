@@ -4,5 +4,5 @@
 
 - [x] Add a task
 - [x] List all tasks
-- [ ] Remove a task
-- [ ] Mark a task as done
+- [x] Remove a task
+- [x] Mark a task as done
